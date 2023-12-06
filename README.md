@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://www.youtube.com/c/bedoflex" target="blank"><img align="center"
+    <a href="https://www.youtube.com/channel/UCU-LM6jYDoFRHL8WFzPp_-g" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
             alt="bedoflex" height="30" width="40" /></a>
     <a href="https://discord.gg/2X9sUWq4NR" target="blank"><img align="center"
