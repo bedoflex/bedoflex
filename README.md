@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm bedoflex</h1>
-<h3 align="center">I'm a backend&frontend developer on the FiveM platform.</h3>
+<h3 align="center">I'm a backend&frontend developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bedoflex&label=Profile%20views&color=0e75b6&style=flat"
         alt="bedoflex" /> </p>
